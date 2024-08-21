@@ -1,0 +1,6 @@
+name: "Fantasy Mod"
+displayName: "[orange]Fantasy[gold] Mod" //what displays in the mod selection menu
+author: "EllaNicole"
+description: "dev"
+version: "1.0"
+minGameVersion: "128.1"
