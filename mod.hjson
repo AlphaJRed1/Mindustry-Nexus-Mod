@@ -1,6 +1,6 @@
-name: "Fantasy Mod"
-displayName: "[orange]Fantasy[gold] Mod" //what displays in the mod selection menu
-author: "EllaNicole"
-description: "dev"
+name: "Nexus Mod"
+displayName: "Nexus Mod" //what displays in the mod selection menu
+author: "AJR1"
+description: "A new beginning. Focuses more on advancements and exploration."
 version: "1.0"
-minGameVersion: "128.1"
+minGameVersion: "146"
